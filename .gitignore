@@ -1,0 +1,13 @@
+# 個人データ（GitHubに絶対に上げない）
+_private/
+*.chatgpt-export*
+conversations.json
+chat.html
+user.json
+message_feedback.json
+shared_conversations.json
+model_comparisons.json
+*.zip
+
+# 一時ファイル
+.DS_Store
