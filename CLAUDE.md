@@ -61,6 +61,8 @@
 - `results.md`（販売実績・売れる目）／`swipe-file.md`（刺さった表現）／`reader-voice.md`（読者の声）／`lessons.md`（学び）
 - `selling-patterns.md`（売れるnote記事の実データ分析。型・タイトル設計・無料部分の法則。planner/writer/editorの判断基準）
 - `experiences.md`（発信者の実体験ネタ帳。テーマ・レーンのタグ付き。planner/writerはテーマに合う体験をここから使う＝一次情報の差別化。新しい体験を聞いたら追記して育てる）
+- `trends.md`（バズ候補のトレンド調査ログ。記事作成前の旬チェックで参照）
+- `monetization.md`（noteの収益化方法の地図。有料記事/マガジン/定期購読/メンバーシップ/サポート。plannerが販売形態を判断するのに使う）
 - researcher / planner は企画前に `knowledge/` を読み、過去の当たり/外れを踏まえる。
 - 記事を出した後・反応が来た後は、社長AIが該当ファイルに**必ず追記**して記憶を更新する。
 - 蓄積が増えるほど「この発信者専用」に進化する。
