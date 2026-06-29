@@ -9,5 +9,11 @@ shared_conversations.json
 model_comparisons.json
 *.zip
 
+# Obsidian（マシン固有の設定だけ除外。プラグイン等の共有設定は残す）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
 # 一時ファイル
 .DS_Store
